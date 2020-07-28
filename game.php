@@ -1,3 +1,3 @@
 <?php
- include("split.html");
+ include_once("split.html");
 ?>
